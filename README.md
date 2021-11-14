@@ -16,3 +16,6 @@
 2 服务器终端树莓派 python3 server_pi_vedio.py  
 3 两个摄像头节点 python3 client_pi_vedio.py  
 4 按键启动可开始测量，测量超时时间25s  
+
+## 待完善
+*角度测量  
